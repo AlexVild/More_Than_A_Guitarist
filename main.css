@@ -1,0 +1,150 @@
+html {
+    background-color: #A2AAAD;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial,     sans-serif;
+    font-size: 13px; 
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-family: "Helvetica Neue", Helvetica,      Arial, sans-serif;
+    font-size: 26px;
+    color: #003399;
+}
+
+h2{
+    color: #003399;
+    font-size: 20px;
+}
+
+.title_image{
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    background-color: #FFFFFF;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-style: inset;
+    border-bottom-style: none;
+    border-right-style: outset;
+}
+
+.navbar{
+    font-size: 20px;
+    font-family: inherit;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 4px;
+    background-color: #FFFFFF;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-style: inset;
+    border-bottom-style: none;
+    border-top-style: none;
+    border-right-style: outset;
+}
+
+.text{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size:14px;
+    background-color: #FFFFFF;
+    padding-top: 1px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 1px;
+    border-style: inset;
+    border-bottom-style: none;
+    border-top-style: none;
+    border-right-style: outset;
+    line-height: 150%;
+}
+
+.footer{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 10px;
+    background-color: #FFFFFF;
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 1px;
+    border-style: inset;
+    border-top-style: none;
+    border-right-style: outset;
+    border-bottom-style: outset;
+}
+
+.lesson_nav{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size:18px;
+    background-color: #FFFFFF;
+    padding-top: 1px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 1px;
+    border-style: inset;
+    border-bottom-style: none;
+    border-top-style: none;
+    border-right-style: outset;
+}
+
+.navbar a:link {
+    text-decoration: none;
+    color: #003399;
+}
+
+.navbar a:visited {
+    text-decoration: none;
+    color: #003399;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+    color: #003399;
+}
+
+.navbar a:active {
+    text-decoration: underline;
+    color: red;
+}
+
+.lesson_nav a:link {
+    text-decoration: none;
+    color: #003399;
+}
+
+.lesson_nav a:visited {
+    text-decoration: none;
+    color: #003399;
+}
+
+.lesson_nav a:hover {
+    text-decoration: underline;
+    color: #003399;
+}
+
+.lesson_nav a:active {
+    text-decoration: underline;
+    color: red;
+}
+
+.split-para      { display:block;margin:10px;}
+.split-para span { display:block;float:right;width:12%;margin-left:10px;}
+<!-- Here was the border for text:
+Background-color: #d3d3d3;
+background-color: #FFFFFF;
+border-style: solid;
+border-width: 2px;
+border-radius: 10px;
+padding-top: 5px;
+padding-right: 25px;
+padding-bottom: 5px;
+padding-left: 25px;
+-->
